@@ -51,7 +51,7 @@ I am a software developer and **ethical hacker**. I specialize in creating softw
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Additional Skills
-*   **Low-level Programming:** C, C++, C#
+*   **Low-level Programming:** C, C#
 *   **Web Technologies:** HTML5, CSS3, Java
 
 ---
